@@ -121,3 +121,7 @@ This is the final code shown at the end of the video.
             for i in range(1,101):
               print(fizzbuzz(i))
 
+## Conclusion
+
+This is a brief overview of the integration of pytest and CI/CD with the fizzbuzz python program. For an indepth tutorial and overview you can access the video [here](https://northeastern-my.sharepoint.com/personal/akpobi_o_northeastern_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fakpobi%5Fo%5Fnortheastern%5Fedu%2FDocuments%2Fsumative%201%20video%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebd448d5a%2D741e%2D4584%2Da8be%2Daeeefedfc033)
+
